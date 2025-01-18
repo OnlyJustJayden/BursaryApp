@@ -1,0 +1,12 @@
+C:\Users\Lincoln\Desktop\TeamKappa\bin\Debug\TeamKappa.exe.config
+C:\Users\Lincoln\Desktop\TeamKappa\bin\Debug\TeamKappa.exe
+C:\Users\Lincoln\Desktop\TeamKappa\bin\Debug\TeamKappa.pdb
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.csproj.AssemblyReference.cache
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.LoadingScreen.resources
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.Properties.Resources.resources
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.csproj.GenerateResource.cache
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.csproj.CoreCompileInputs.cache
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.exe
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.pdb
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.Home.resources
+C:\Users\Lincoln\Desktop\TeamKappa\obj\Debug\TeamKappa.NewAccount.resources
