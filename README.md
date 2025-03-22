@@ -4,6 +4,9 @@ This project was developed for the **2023 NMU Computer Society Hackathon**, wher
 
 ## 🏆 Project Overview  
 
+> [!Warning]
+>  My team members are not contributors here due to us not using GitHub at the time but this project wouldn't have been feasible without them.
+
 Our **C# Windows Forms** application was designed to help college students **find funding opportunities** while also providing **financial literacy resources**. The app features:  
 
 - 📋 A **list of available bursaries** at a college level.  
@@ -21,13 +24,13 @@ Since this was a **hackathon prototype**, many features were mockups and did not
 
 ## 📸 Screenshots  
 
-![Screenshot of the Bursary App](./images/bursary-app.png)  
+--- To be added Soon ---
 
 ## 🎯 The Goal  
 
 The bursary app was created to **simplify the funding search process** for students by providing:  
 
-✅ A **centralized bursary database**  
+✅ A **centralized bursary database (predefined)**  
 ✅ An **easy-to-navigate interface**  
 ✅ **Financial literacy tools** to help students **manage their funding responsibly**  
 
@@ -43,6 +46,12 @@ If this project were to be expanded, we would consider:
 
 A huge thanks to **NMU Computer Society** for organizing this hackathon and to my **Team Kappa** members for their collaboration and creativity!  
 
+
+## 🏅 Contribution
+
+- Feel free to fork and update this project.
+- Whilst currently not active in development, we are willing to consider working on it again :)
+  
 ---
   
 📌 **Interested in checking out the prototype?** Feel free to dowload it✔
