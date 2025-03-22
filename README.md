@@ -19,7 +19,7 @@ Since this was a **hackathon prototype**, many features were mockups and did not
 ## 🛠️ Built With  
 
 - **C# Windows Forms** 🖥️  
-- **Dark Green & Gold UI Theme** 🎨  
+- **Dark Green & Gold UI Theme in mind** 🎨  
 - **Visual Studio** 🏗️  
 
 ## 📸 Screenshots  
