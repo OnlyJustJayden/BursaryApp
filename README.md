@@ -16,15 +16,17 @@ Our **C# Windows Forms** application was designed to help college students **fin
 
 Since this was a **hackathon prototype**, many features were mockups and did not perform full backend functions, but they effectively showcased the **concept and UI** of the app.  
 
+## 📸 Preview
+
+--- To be added Soon ---
+
 ## 🛠️ Built With  
 
 - **C# Windows Forms** 🖥️  
 - **Dark Green & Gold UI Theme in mind** 🎨  
 - **Visual Studio** 🏗️  
 
-## 📸 Screenshots  
 
---- To be added Soon ---
 
 ## 🎯 The Goal  
 
