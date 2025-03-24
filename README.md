@@ -18,7 +18,8 @@ Since this was a **hackathon prototype**, many features were mockups and did not
 
 ## 📸 Preview
 
---- To be added Soon ---
+![Bursary-App-preview](https://github.com/user-attachments/assets/f483c416-330c-488a-bed7-4cf72fc33869)
+
 
 ## 🛠️ Built With  
 
