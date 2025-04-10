@@ -4,7 +4,7 @@ This project was developed for the **2023 NMU Computer Society Hackathon**, wher
 
 ## 🏆 Project Overview  
 
-> [!Warning]
+> [!Warning ]
 >  My team members are not contributors here due to us not using GitHub at the time but this project wouldn't have been feasible without them.
 
 Our **C# Windows Forms** application was designed to help college students **find funding opportunities** while also providing **financial literacy resources**. The app features:  
